@@ -1,15 +1,14 @@
 // ==UserScript==
 // @name         MediaWiki Enhanced Reading
 // @namespace    https://github.com/tomviner/mediawiki-userscripts/
-// @version      0.2
+// @version      0.3
 // @description  Improves MediaWiki reading experience with fixed TOC and better text width
 // @author       Tom Viner
 // @license      MIT
+// @homepageURL  https://github.com/tomviner/mediawiki-userscripts/
 // @match        *://wiki.sohonet.co.uk/wiki/*
-// @grant        none
 // @run-at       document-end
 // @noframes
-// @esversion    6
 // ==/UserScript==
 
 /* jshint esversion: 6 */
