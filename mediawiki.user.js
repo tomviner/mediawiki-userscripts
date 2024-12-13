@@ -12,6 +12,8 @@
 // @esversion    6
 // ==/UserScript==
 
+/* jshint esversion: 6 */
+
 (function() {
     'use strict';
 
