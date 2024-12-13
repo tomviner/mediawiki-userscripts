@@ -7,6 +7,9 @@
 // @license      MIT
 // @match        *://wiki.sohonet.co.uk/wiki/*
 // @grant        none
+// @run-at       document-end
+// @noframes
+// @esversion    6
 // ==/UserScript==
 
 (function() {
